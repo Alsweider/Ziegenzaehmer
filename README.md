@@ -1,8 +1,9 @@
 # Ziegenzaehmer
 Eine automatische Überprüfung des [Ziegenproblems](https://de.wikipedia.org/wiki/Ziegenproblem). 
 
-![2024-02-15 12_33_27-Ziegenzaehmer v0 0 1](https://github.com/Alsweider/Ziegenzaehmer/assets/30653982/191e32aa-ebb2-42ae-bbf7-d787b5218dfc)
+Neueste Version herunterladen: https://github.com/Alsweider/Ziegenzaehmer/releases/latest
 
+![2024-02-15 12_33_27-Ziegenzaehmer v0 0 1](https://github.com/Alsweider/Ziegenzaehmer/assets/30653982/191e32aa-ebb2-42ae-bbf7-d787b5218dfc)
 
 Programmablauf:
 1. Der Computer wählt zufällig eines der drei Tore aus.
